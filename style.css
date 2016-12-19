@@ -2,8 +2,7 @@ h1 {
 color: red;
 }
 
-#tomy-photo {
-  border: 100px solid black;
-  
+img {
+  border: 10px solid black
 }
   
